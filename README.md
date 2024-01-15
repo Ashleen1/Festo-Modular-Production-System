@@ -1,1 +1,3 @@
 # Festo-Modular-Production-System
+
+The Festo Modular Production System was a capstone project done by Ashleen Bains and Joshua Selikem at BCIT. The main objective of this project was to have 3 separate stations controlled by their own point I/O module. Using star topology, each point I/O module and an HMI were connected to one Allen Bradley PLC via EtherNet/IP. The PLC's program was written with ladder logic using a state method system. The project's objective was to have three separate stations that worked asynchronously to sort different types of wheels into separate silos. The project was demonstrated at a project showcase at BCIT in May 2022.
